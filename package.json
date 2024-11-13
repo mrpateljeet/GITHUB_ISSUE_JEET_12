@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@axe-core/react": "^4.10.1",
+    "framer-motion": "^11.11.15",
+    "recharts": "^2.13.3"
+  }
+}
