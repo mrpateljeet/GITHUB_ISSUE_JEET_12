@@ -13,7 +13,7 @@ In this project, I developed a React-based webpage to visualize the diameter, he
 ## 2. Challenges and Solutions
 
 - **Challenge 1: Displaying All 100 Trees on the Map**
-  - *Problem*: Initially, only a few markers were displayed due to data issues and rendering limitations.
+  - *Problem*: Only a few markers were initially displayed due to data issues and rendering limitations.
   - *Solution*: I validated and structured the dataset, ensuring all 100 tree entries were correctly represented. I also optimized rendering logic to handle all markers efficiently.
 
 - **Challenge 2: Interactivity and Animations**
@@ -21,15 +21,15 @@ In this project, I developed a React-based webpage to visualize the diameter, he
   - *Solution*: I integrated `framer-motion` to add animations for marker interactions, ensuring responsiveness and consistent performance. This improved the visual appeal and user feedback.
 
 - **Challenge 3: Ensuring Code Quality and Maintainability**
-  - *Problem*: As the project grew, maintaining clean and modular code became challenging.
+  - *Problem*: Maintaining clean and modular code became challenging as the project grew.
   - *Solution*: I used React Hooks, functional components, and modularized code structure. Components like `TreeMarker` and `TreeMap` were separated for better maintainability.
 
 ## 3. Ensuring Code Quality
 
-- **Self-Testing**: I rigorously tested each feature locally, ensuring the functionality was bug-free and responsive across different devices.
+- **Self-testing**: I rigorously tested each feature locally, ensuring the functionality was bug-free and responsive across different devices.
 - **LLM Assistance**: Throughout the project, I used an LLM (Language Model) for:
   - Guidance on best practices for React component structure and state management.
   - Optimizing rendering logic and improving performance.
   - Troubleshooting errors efficiently and identifying potential improvements for user interaction and accessibility.
 
-The combination of my coding expertise and LLM support enabled the delivery of a robust and high-quality solution, adhering to React best practices and project guidelines.
+
