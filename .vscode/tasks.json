@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "GITHUB_ISSUE_JEET_12/tree-visualization",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - GITHUB_ISSUE_JEET_12/tree-visualization",
+			"detail": "react-scripts build"
+		}
+	]
+}
